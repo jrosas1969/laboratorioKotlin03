@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">laboratorio03</string>
+    <string name="titulomascota">Información sobre su mascota</string>
+    <string name="hintnombre">Ingrese el nombre de la mascota</string>
+    <string name="hintedad">Ingrese la edad de la mascota</string>
+    <string name="nameperro">Perro</string>
+    <string name="namegato">Gato</string>
+    <string name="conejo">Conejo</string>
+    <string name="tipomascota">Tipo de mascota</string>
+    <string name="tipovacuna">Vacunas</string>
+    <string name="vac1">Distemper</string>
+    <string name="vac2">Parvovirosis</string>
+    <string name="vac3">Rabia</string>
+    <string name="vac4">Adenovirus</string>
+    <string name="vac5">Leptospirosis</string>
+    <string name="enviar">Enviar</string>
+    <string name="fichamascota">Ficha de la mascota</string>
+</resources>
